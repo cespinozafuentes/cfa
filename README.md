@@ -17,3 +17,4 @@ To start work on your project, go to the green button at the top of *your* repos
 This take a minute or two (just the first time; later this will be much faster) and then open a browser version of VS Code with everything set up to start working.  It will generate a new pretext book (and replace this README with one you can edit for your project). 
 
 Next time you want to work on your book, return to your newly created repository, go to the green `<> Code` button, and select the codespace you previously created.  If you don't see that codespace (perhaps you deleted it to save space), you can always create a new codespace.
+
