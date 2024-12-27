@@ -12,8 +12,13 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
-
+    <xi:include href="c0_introduccion/ch-introduccion.ptx" />
+    <xi:include href="c1_numeros/ch-numeros.ptx" />
+    <xi:include href="c2_algebra/ch-algebra.ptx" />
+    <xi:include href="c3_recta/ch-recta.ptx" />
+    <xi:include href="c4_inecuaciones/ch-inecuaciones.ptx" />
+    <xi:include href="c5_funciones/ch-funciones.ptx" />
+    <xi:include href="c6_estadistica/ch-estadistica.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
