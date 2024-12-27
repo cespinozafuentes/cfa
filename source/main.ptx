@@ -6,7 +6,7 @@
 
   <book xml:id="my-great-book">
     <title>Matemática para el primer día</title>
-    <subtitle>Una aproximación a aquello que necesitar saber</subtitle>
+    <subtitle>Un apunte necesario</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
